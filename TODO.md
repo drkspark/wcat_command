@@ -11,4 +11,4 @@ It is used to display or make a copy of one or more files in terminal.
 
 ## Edge Cases
 - [x] If file entered is not found then it gives File doesn't exist error
-- [x]-n -b should not be executed together
+- [x] -n -b should not be executed together
